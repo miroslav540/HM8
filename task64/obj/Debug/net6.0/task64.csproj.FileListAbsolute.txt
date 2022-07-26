@@ -1,0 +1,15 @@
+D:\elena2\homework8\task64\bin\Debug\net6.0\task64.exe
+D:\elena2\homework8\task64\bin\Debug\net6.0\task64.deps.json
+D:\elena2\homework8\task64\bin\Debug\net6.0\task64.runtimeconfig.json
+D:\elena2\homework8\task64\bin\Debug\net6.0\task64.dll
+D:\elena2\homework8\task64\bin\Debug\net6.0\task64.pdb
+D:\elena2\homework8\task64\obj\Debug\net6.0\task64.csproj.AssemblyReference.cache
+D:\elena2\homework8\task64\obj\Debug\net6.0\task64.GeneratedMSBuildEditorConfig.editorconfig
+D:\elena2\homework8\task64\obj\Debug\net6.0\task64.AssemblyInfoInputs.cache
+D:\elena2\homework8\task64\obj\Debug\net6.0\task64.AssemblyInfo.cs
+D:\elena2\homework8\task64\obj\Debug\net6.0\task64.csproj.CoreCompileInputs.cache
+D:\elena2\homework8\task64\obj\Debug\net6.0\task64.dll
+D:\elena2\homework8\task64\obj\Debug\net6.0\refint\task64.dll
+D:\elena2\homework8\task64\obj\Debug\net6.0\task64.pdb
+D:\elena2\homework8\task64\obj\Debug\net6.0\task64.genruntimeconfig.cache
+D:\elena2\homework8\task64\obj\Debug\net6.0\ref\task64.dll
